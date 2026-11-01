@@ -7,6 +7,8 @@
 
 DiDOM - simple and fast HTML parser.
 
+This repository is the internal GitLab fork. Its canonical origin is `git@glab.ixbt.site:packages/didom.git` ([GitLab repository](https://glab.ixbt.site/packages/didom)); the Composer package name remains `imangazaliev/didom`. Upstream project documentation is maintained at [Imangazaliev/DiDOM](https://github.com/Imangazaliev/DiDOM).
+
 - [README на русском](README-RU.md)
 - [DiDOM 1.x documentation](https://github.com/Imangazaliev/DiDOM/blob/98d411741d598b0b74bb38e215d99c1cdb0d532d/README.md). To upgrade from 1.x please checkout the [changelog](CHANGELOG.md).
 
